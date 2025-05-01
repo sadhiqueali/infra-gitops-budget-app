@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/sadhiqueali/infra-gitops-budget-app/new/main
+    repoURL: https://github.com/sadhiqueali/infra-gitops-budget-app.git
     path: base
     targetRevision: HEAD
   syncPolicy:
